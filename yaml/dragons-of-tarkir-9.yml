@@ -1,0 +1,115 @@
+---
+object: card
+id: 5635c8f2-164c-4a13-965a-9432d07092ed
+oracle_id: f688863f-b8eb-4143-8ea5-0b234cc91bd0
+multiverse_ids:
+- 394515
+mtgo_id: 56138
+mtgo_foil_id: 56139
+tcgplayer_id: 96610
+cardmarket_id: 273277
+name: Champion of Arashin
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/5635c8f2-164c-4a13-965a-9432d07092ed
+scryfall_uri: https://scryfall.com/card/dtk/9/champion-of-arashin?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/6/5635c8f2-164c-4a13-965a-9432d07092ed.jpg?1562786498
+  normal: https://cards.scryfall.io/normal/front/5/6/5635c8f2-164c-4a13-965a-9432d07092ed.jpg?1562786498
+  large: https://cards.scryfall.io/large/front/5/6/5635c8f2-164c-4a13-965a-9432d07092ed.jpg?1562786498
+  png: https://cards.scryfall.io/png/front/5/6/5635c8f2-164c-4a13-965a-9432d07092ed.png?1562786498
+  art_crop: https://cards.scryfall.io/art_crop/front/5/6/5635c8f2-164c-4a13-965a-9432d07092ed.jpg?1562786498
+  border_crop: https://cards.scryfall.io/border_crop/front/5/6/5635c8f2-164c-4a13-965a-9432d07092ed.jpg?1562786498
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Dog Warrior
+oracle_text: Lifelink (Damage dealt by this creature also causes you to gain that
+  much life.)
+power: '3'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Lifelink
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7e72625f-f320-4552-a719-d11e2f1853bd
+set: dtk
+set_name: Dragons of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/7e72625f-f320-4552-a719-d11e2f1853bd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5635c8f2-164c-4a13-965a-9432d07092ed/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af688863f-b8eb-4143-8ea5-0b234cc91bd0&unique=prints
+collector_number: '9'
+digital: false
+rarity: common
+watermark: dromoka
+flavor_text: '"The blood of Dromoka and the blood of my veins are the same."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Joseph Meehan
+artist_ids:
+- 6befd6d5-7f8d-4b7c-87e3-5511391a3359
+illustration_id: 25fa3eae-216b-45db-baff-3b928cad39a8
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20118
+prices:
+  usd: '0.02'
+  usd_foil: '0.12'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.09'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394515
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Champion+of+Arashin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Champion+of+Arashin&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Champion+of+Arashin
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96610?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Champion+of+Arashin&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/56138?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

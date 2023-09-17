@@ -1,0 +1,118 @@
+---
+object: card
+id: fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1
+oracle_id: fbed6f1a-e224-413c-b13e-3555caaef02a
+multiverse_ids:
+- 394644
+mtgo_id: 56312
+mtgo_foil_id: 56313
+tcgplayer_id: 96602
+cardmarket_id: 273233
+name: Orator of Ojutai
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1
+scryfall_uri: https://scryfall.com/card/dtk/28/orator-of-ojutai?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/c/fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1.jpg?1562796141
+  normal: https://cards.scryfall.io/normal/front/f/c/fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1.jpg?1562796141
+  large: https://cards.scryfall.io/large/front/f/c/fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1.jpg?1562796141
+  png: https://cards.scryfall.io/png/front/f/c/fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1.png?1562796141
+  art_crop: https://cards.scryfall.io/art_crop/front/f/c/fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1.jpg?1562796141
+  border_crop: https://cards.scryfall.io/border_crop/front/f/c/fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1.jpg?1562796141
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Creature — Bird Monk
+oracle_text: |-
+  As an additional cost to cast this spell, you may reveal a Dragon card from your hand.
+  Defender, flying
+  When Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast this spell, draw a card.
+power: '0'
+toughness: '4'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7e72625f-f320-4552-a719-d11e2f1853bd
+set: dtk
+set_name: Dragons of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/7e72625f-f320-4552-a719-d11e2f1853bd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/fc68c7d8-60fa-4e55-92c1-43fcf5e9abf1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afbed6f1a-e224-413c-b13e-3555caaef02a&unique=prints
+collector_number: '28'
+digital: false
+rarity: uncommon
+watermark: ojutai
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zack Stella
+artist_ids:
+- 17bc7f55-958b-43f4-bb40-09746d05b3f9
+illustration_id: 50cb3039-0e3f-4fba-82b6-ac233a20f9c6
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 8107
+penny_rank: 5580
+prices:
+  usd: '0.21'
+  usd_foil: '0.53'
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: '0.70'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394644
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Orator+of+Ojutai&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Orator+of+Ojutai&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Orator+of+Ojutai
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96602?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Orator+of+Ojutai&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/56312?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,114 @@
+---
+object: card
+id: 051141cb-562a-42a5-984b-a83ee8baca51
+oracle_id: f4aa0f64-d202-42a1-af62-0e53bbe87782
+multiverse_ids:
+- 394521
+mtgo_id: 56392
+mtgo_foil_id: 56393
+tcgplayer_id: 96595
+cardmarket_id: 273361
+name: Commune with Lava
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/051141cb-562a-42a5-984b-a83ee8baca51
+scryfall_uri: https://scryfall.com/card/dtk/131/commune-with-lava?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/5/051141cb-562a-42a5-984b-a83ee8baca51.jpg?1562781946
+  normal: https://cards.scryfall.io/normal/front/0/5/051141cb-562a-42a5-984b-a83ee8baca51.jpg?1562781946
+  large: https://cards.scryfall.io/large/front/0/5/051141cb-562a-42a5-984b-a83ee8baca51.jpg?1562781946
+  png: https://cards.scryfall.io/png/front/0/5/051141cb-562a-42a5-984b-a83ee8baca51.png?1562781946
+  art_crop: https://cards.scryfall.io/art_crop/front/0/5/051141cb-562a-42a5-984b-a83ee8baca51.jpg?1562781946
+  border_crop: https://cards.scryfall.io/border_crop/front/0/5/051141cb-562a-42a5-984b-a83ee8baca51.jpg?1562781946
+mana_cost: "{X}{R}{R}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Exile the top X cards of your library. Until the end of your next turn,
+  you may play those cards.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7e72625f-f320-4552-a719-d11e2f1853bd
+set: dtk
+set_name: Dragons of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/7e72625f-f320-4552-a719-d11e2f1853bd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/051141cb-562a-42a5-984b-a83ee8baca51/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af4aa0f64-d202-42a1-af62-0e53bbe87782&unique=prints
+collector_number: '131'
+digital: false
+rarity: rare
+flavor_text: Atarka conquered Qadat, the Fire Rim, long ago, winning over its efreet
+  with a promise to spread the glory of fire to all the world.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Ryan Barger
+artist_ids:
+- a4e0102e-bbeb-497c-babc-1c0741fea914
+illustration_id: 21f06428-8259-4d10-b00a-a8bb238ba277
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1988
+penny_rank: 7520
+prices:
+  usd: '0.28'
+  usd_foil: '3.73'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '1.19'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394521
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Commune+with+Lava&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Commune+with+Lava&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Commune+with+Lava
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96595?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Commune+with+Lava&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/56392?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

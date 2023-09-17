@@ -1,0 +1,117 @@
+---
+object: card
+id: 64d64264-895f-4d4d-8e5c-ab1d0d6e340b
+oracle_id: e12681cc-c66e-4dac-882c-bd8638a2e12c
+multiverse_ids:
+- 394657
+mtgo_id: 55946
+mtgo_foil_id: 55947
+tcgplayer_id: 96528
+cardmarket_id: 273219
+name: Qarsi Deceiver
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/64d64264-895f-4d4d-8e5c-ab1d0d6e340b
+scryfall_uri: https://scryfall.com/card/dtk/71/qarsi-deceiver?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/4/64d64264-895f-4d4d-8e5c-ab1d0d6e340b.jpg?1562787393
+  normal: https://cards.scryfall.io/normal/front/6/4/64d64264-895f-4d4d-8e5c-ab1d0d6e340b.jpg?1562787393
+  large: https://cards.scryfall.io/large/front/6/4/64d64264-895f-4d4d-8e5c-ab1d0d6e340b.jpg?1562787393
+  png: https://cards.scryfall.io/png/front/6/4/64d64264-895f-4d4d-8e5c-ab1d0d6e340b.png?1562787393
+  art_crop: https://cards.scryfall.io/art_crop/front/6/4/64d64264-895f-4d4d-8e5c-ab1d0d6e340b.jpg?1562787393
+  border_crop: https://cards.scryfall.io/border_crop/front/6/4/64d64264-895f-4d4d-8e5c-ab1d0d6e340b.jpg?1562787393
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Creature — Naga Wizard
+oracle_text: "{T}: Add {C}. Spend this mana only to cast a face-down creature spell,
+  pay a mana cost to turn a manifested creature face up, or pay a morph cost. (A megamorph
+  cost is a morph cost.)"
+power: '0'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7e72625f-f320-4552-a719-d11e2f1853bd
+set: dtk
+set_name: Dragons of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/7e72625f-f320-4552-a719-d11e2f1853bd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/64d64264-895f-4d4d-8e5c-ab1d0d6e340b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae12681cc-c66e-4dac-882c-bd8638a2e12c&unique=prints
+collector_number: '71'
+digital: false
+rarity: uncommon
+watermark: silumgar
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Raymond Swanland
+artist_ids:
+- e956bacc-077d-4c12-b6bc-ba798b718af9
+illustration_id: ea403399-d8e9-46ba-a854-82d069963db9
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16875
+penny_rank: 11699
+prices:
+  usd: '0.05'
+  usd_foil: '0.42'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '1.00'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394657
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Qarsi+Deceiver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Qarsi+Deceiver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Qarsi+Deceiver
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96528?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Qarsi+Deceiver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/55946?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

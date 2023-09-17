@@ -1,0 +1,115 @@
+---
+object: card
+id: 4076bf6b-c8b1-49ef-8f23-afaf7a234e2d
+oracle_id: 9398fbb4-a2b9-4ae4-9e0f-2553eb570501
+multiverse_ids:
+- 394671
+mtgo_id: 55950
+mtgo_foil_id: 55951
+tcgplayer_id: 96726
+cardmarket_id: 273399
+name: Salt Road Quartermasters
+lang: en
+released_at: '2015-03-27'
+uri: https://api.scryfall.com/cards/4076bf6b-c8b1-49ef-8f23-afaf7a234e2d
+scryfall_uri: https://scryfall.com/card/dtk/199/salt-road-quartermasters?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/0/4076bf6b-c8b1-49ef-8f23-afaf7a234e2d.jpg?1562785272
+  normal: https://cards.scryfall.io/normal/front/4/0/4076bf6b-c8b1-49ef-8f23-afaf7a234e2d.jpg?1562785272
+  large: https://cards.scryfall.io/large/front/4/0/4076bf6b-c8b1-49ef-8f23-afaf7a234e2d.jpg?1562785272
+  png: https://cards.scryfall.io/png/front/4/0/4076bf6b-c8b1-49ef-8f23-afaf7a234e2d.png?1562785272
+  art_crop: https://cards.scryfall.io/art_crop/front/4/0/4076bf6b-c8b1-49ef-8f23-afaf7a234e2d.jpg?1562785272
+  border_crop: https://cards.scryfall.io/border_crop/front/4/0/4076bf6b-c8b1-49ef-8f23-afaf7a234e2d.jpg?1562785272
+mana_cost: "{2}{G}"
+cmc: 3.0
+type_line: Creature — Human Soldier
+oracle_text: |-
+  Salt Road Quartermasters enters the battlefield with two +1/+1 counters on it.
+  {2}{G}, Remove a +1/+1 counter from Salt Road Quartermasters: Put a +1/+1 counter on target creature.
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 7e72625f-f320-4552-a719-d11e2f1853bd
+set: dtk
+set_name: Dragons of Tarkir
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/7e72625f-f320-4552-a719-d11e2f1853bd
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adtk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dtk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4076bf6b-c8b1-49ef-8f23-afaf7a234e2d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9398fbb4-a2b9-4ae4-9e0f-2553eb570501&unique=prints
+collector_number: '199'
+digital: false
+rarity: uncommon
+watermark: dromoka
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anthony Palumbo
+artist_ids:
+- afd2d541-4140-41ae-a28f-862436458fcb
+illustration_id: cc6f7d0d-a406-430e-b6f5-f3e02b520350
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 21644
+penny_rank: 5807
+prices:
+  usd: '0.03'
+  usd_foil: '0.20'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.09'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394671
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Salt+Road+Quartermasters&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Salt+Road+Quartermasters&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Salt+Road+Quartermasters
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/96726?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Salt+Road+Quartermasters&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/55950?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

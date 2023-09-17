@@ -1,0 +1,21 @@
+---
+object: set
+id: 7e72625f-f320-4552-a719-d11e2f1853bd
+code: dtk
+mtgo_code: dtk
+arena_code: dtk
+tcgplayer_id: 1515
+name: Dragons of Tarkir
+uri: https://api.scryfall.com/sets/7e72625f-f320-4552-a719-d11e2f1853bd
+scryfall_uri: https://scryfall.com/sets/dtk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Adtk&unique=prints
+released_at: '2015-03-27'
+set_type: expansion
+card_count: 264
+printed_size: 264
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ktk
+block: Khans of Tarkir
+icon_svg_uri: https://svgs.scryfall.io/sets/dtk.svg?1694404800
